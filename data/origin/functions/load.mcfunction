@@ -1,0 +1,1 @@
+scoreboard objectives add origin_human_density dummy

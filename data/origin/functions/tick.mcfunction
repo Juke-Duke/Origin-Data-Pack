@@ -1,0 +1,1 @@
+execute as @a[tag=origin_human] at @s run function origin:races/human/passive
