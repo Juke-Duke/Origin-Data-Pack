@@ -1,1 +1,1 @@
-scoreboard objectives add origin_human_density dummy
+scoreboard objectives add origin_nearby_humans dummy
